@@ -1,54 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Universo 3D - Innovación y Modelado</title>
-    <link />
+    <link>https://github.com/amr0086-ale/Tarea17</link>
     <description>Canal dedicado al mundo de la impresión 3D, solución de problemas de hardware, calibración y modelado en Blender</description>
     <language>es</language>
+    <atom:link href="https://raw.githubusercontent.com/amr0086-ale/Tarea17/refs/heads/main/feed.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Impresión 3D médica: Del escáner digital a la escultura en relieve</title>
       <pubDate>Wed, 20 May 2026 09:24:49 +0200</pubDate>
       <link>https://www.labs3d.com/soluciones-3d-escultura</link>
-      <author>amr0086@alu.medac.es</author>
+      <author>amr0086@alu.medac.es (Alejandro Morales)</author>
       <category>Innovación</category>
-      <enclosure url="https://www.3dnatives.com/es/wp-content/uploads/sites/4/Article_restorationOPT.jpg" length="" type="image/jpeg" />
-      <description><![CDATA[]]></description>
+      <enclosure url="https://www.3dnatives.com/es/wp-content/uploads/sites/4/Article_restorationOPT.jpg" length="50000" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.labs3d.com/soluciones-3d-escultura</guid>
+      <description><![CDATA[Exploramos cómo las tecnologías de impresión en relieve están permitiendo transformar ecografías y tomografías digitales en modelos físicos y tangibles de alta precisión.]]></description>
     </item>
+    
     <item>
       <title>Cómo solucionar el "stringing" o hilado en tus filamentos PLA y PETG</title>
       <pubDate>Wed, 20 May 2026 09:18:40 +0200</pubDate>
       <link>https://www.impresoras3d.com/stringing-hilos-en-nuestras-piezas/</link>
-      <author>amr0086@alu.medac.es</author>
+      <author>amr0086@alu.medac.es (Alejandro Morales)</author>
       <category>Mantenimiento</category>
-      <enclosure url="https://www.impresoras3d.com/wp-content/uploads/2021/06/Stringing.jpg" length="" type="image/jpeg" />
+      <enclosure url="https://www.impresoras3d.com/wp-content/uploads/2021/06/Stringing.jpg" length="50000" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.impresoras3d.com/stringing-hilos-en-nuestras-piezas/</guid>
       <description><![CDATA[Si tus piezas salen con hilos como telarañas, revisa tu configuración de retracción y la temperatura del fusor. Te damos los valores óptimos para solucionarlo.]]></description>
     </item>
+    
     <item>
       <title>El auge de las impresoras "CoreXY" compactas frente a las industriales</title>
       <pubDate>Wed, 20 May 2026 09:16:36 +0200</pubDate>
       <link>https://www.marketreportsworld.com/es/market-reports/desktop-3d-printers-market-14720507</link>
-      <author>amr0086@alu.medac.es</author>
-      <category>Evaluamos el rendimiento de los nuevos modelos compactos de alta velocidad frente a los ecosistemas industriales cerrados. ¿Vale la pena el salto para un entorno doméstico?</category>
-      <enclosure url="https://qidi3d.com/cdn/shop/articles/PixPin_2025-04-03_14-02-24.png?v=1744704518" length="" type="image/jpeg" />
+      <author>amr0086@alu.medac.es (Alejandro Morales)</author>
+      <category>Comparativas</category>
+      <enclosure url="https://qidi3d.com/cdn/shop/articles/PixPin_2025-04-03_14-02-24.png?v=1744704518" length="50000" type="image/jpeg" />
+      <guid isPermaLink="true">https://www.marketreportsworld.com/es/market-reports/desktop-3d-printers-market-14720507</guid>
       <description><![CDATA[Evaluamos el rendimiento de los nuevos modelos compactos de alta velocidad frente a los ecosistemas industriales cerrados. ¿Vale la pena el salto para un entorno doméstico?]]></description>
     </item>
+    
     <item>
       <title>De Blender a la laminadora: Optimización de modelos 3D</title>
       <pubDate>Wed, 20 May 2026 09:14:50 +0200</pubDate>
       <link>https://lboxacademy.es/blog/blender-y-la-impresion-3d/</link>
-      <author>amr0086@alu.medac.es</author>
+      <author>amr0086@alu.medac.es (Alejandro Morales)</author>
       <category>Software</category>
-      <enclosure url="https://www.3dnatives.com/es/wp-content/uploads/sites/4/blender_cover.jpg" length="" type="image/jpeg" />
+      <enclosure url="https://www.3dnatives.com/es/wp-content/uploads/sites/4/blender_cover.jpg" length="50000" type="image/jpeg" />
+      <guid isPermaLink="true">https://lboxacademy.es/blog/blender-y-la-impresion-3d/</guid>
       <description><![CDATA[Cómo exportar tus diseños desde Blender en formato STL o OBJ asegurando que las mallas estén completamente cerradas (manifold) y listas para imprimir.]]></description>
     </item>
+    
     <item>
       <title>Guía de calibración de primera capa en impresoras FDM</title>
       <pubDate>Wed, 20 May 2026 09:10:56 +0200</pubDate>
       <link>https://labs.3dwork.io/guias-impresion-3d/calibracion_3d</link>
-      <author>amr0086@alu.medac.es</author>
+      <author>amr0086@alu.medac.es (Alejandro Morales)</author>
       <category>Hardware</category>
-      <enclosure url="https://labs.3dwork.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2F4SOiUz9PiuHFIwg2qk03%2Fblobs%2FIzApRiKaiwjk0tqu5rDd%2F01s8lOzd24t1s3pHCdDtLUA-8.webp&amp;width=1248&amp;dpr=3&amp;quality=100&amp;sign=c3e2b2df&amp;sv=2" length="" type="image/jpeg" />
+      <enclosure url="https://labs.3dwork.io/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2F4SOiUz9PiuHFIwg2qk03%2Fblobs%2FIzApRiKaiwjk0tqu5rDd%2F01s8lOzd24t1s3pHCdDtLUA-8.webp&amp;width=1248&amp;dpr=3&amp;quality=100&amp;sign=c3e2b2df&amp;sv=2" length="50000" type="image/jpeg" />
+      <guid isPermaLink="true">https://labs.3dwork.io/guias-impresion-3d/calibracion_3d</guid>
       <description><![CDATA[Consejos esenciales para lograr una adherencia perfecta en la cama caliente. Analizamos el nivelado manual frente al uso de sensores de nivelación automática.]]></description>
     </item>
   </channel>
